@@ -1,0 +1,18 @@
+/* Mas Martin */
+.dev-body:first-of-type {
+  background-image: url("http://101.255.120.81:21280/public/assets/gentelella/images/bg_main.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.icon-z-up {
+  z-index: 1;
+}
+
+.login-dev{
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+/* Dwiki */
